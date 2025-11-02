@@ -1,0 +1,2 @@
+# PracticaGO
+Para practicar Go
